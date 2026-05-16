@@ -135,7 +135,3 @@ def show_matches(text):
 
 
 
-compres, codes = compress('abracadabra')
-
-print(find_matches("abracabraabracabra"))
-print(compress("abracabraabracabra"))
